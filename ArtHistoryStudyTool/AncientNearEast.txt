@@ -1,0 +1,7 @@
+White Temple and Its Ziggurat;Unknown;3500-3000 BCE;Uruk;Mud Brick;Sumerian
+Standard of Ur;Unknown;2600-2400 BCE;Modern Tell el Muqayyar, Iraq;Wood inlaid with lapis lazuli, shell, and red limestone;Sumerian
+Statues of Votive Figures;Unknown;2700 BCE;Modern Tell Asmar, Iraq;Gypsum inlaid with shell and black limestone;Sumerian
+Code of Hammurabi;Unknown;1792-1750 BCE;Modern Susa, Iran;Basalt;Babylonian
+Lamassu from the Citadel of Sargon II;Unknown;720-705 BCE;Modern Khorsabad, Iraq;Alabaster;Neo-Assyrian
+Audience Hall of Darius and Xerxes;Unknown;520-465 BCE;Persepolis, Iran;Limestone;Ancient Near East
+endfile

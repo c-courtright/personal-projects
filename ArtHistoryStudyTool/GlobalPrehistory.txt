@@ -1,0 +1,12 @@
+Apollo 11 Stones;Unknown;25500-25300 BCE;Namibia;Charcoal on Stone;Paleolithic
+Great Hall of the Bulls;Unknown;15000-13000 BCE;Lascaux, France;Rock Painting;Paleolithic
+Camelid Sacrum;Unknown;14000-7000 BCE;Tequixquiac, Central Mexico;Bone;Paleolithic
+Running Horned Woman;Unknown;6000-4000 BCE;Tassilli n'Ajjer, Algeria;Pigment on Stone;Neolithic
+Bushel with Ibex Motifs;Unknown;4200-3500 BCE;Susa, Iran;Painted Terracotta;Neolithic
+Anthropomorphic Stele;Unknown;4th Millenium BCE;Arabian Peninsula;Sandstone;Neolithic
+Jade Cong;Unknown;3200-2200 BCE;Liangzhu, China;Jade;Neolithic
+Stonehenge;Unknown;2500-1600 BCE;Wiltshire, UK;Sandstone;Neolithic
+Ambum Stone;Unknown;1500 BCE;Ambum Valley, Papua New Guinea;Greywacke;Bronze Age
+Tlatilco Female Figurine;Unknown;1200-900 BCE;Tlatilco, Central Mexico;Ceramic;Bronze Age
+Lapita Terracotta Fragment;Unknown;1000 BCE;Solomon Island, Reef Islands;Bronze Age
+endfile

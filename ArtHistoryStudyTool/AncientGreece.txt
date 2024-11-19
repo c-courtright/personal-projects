@@ -1,0 +1,11 @@
+Anavysos Kouros;Unknown;530 BCE;Athens, Greece;Marble with remnants of paint;Archaic
+Peplos Kore;Unknown;530 BCE;Greece;Marble with painted details;Archaic
+Athenian Agora;Unknown;600 BCE - 150 CE;Athens, Greece;N/A;Archaic through Hellenistic
+Niobides Krater;Unknown;460-450 BCE;Greece;Clay, red-figure technique;Classical
+Doryphoros;Polykleitos;450-440 BCE;Greece;Roman marble copy of Greek bronze original;Classical
+Acropolis and all associated pieces;Iktinos and Kallikrates;447-410 BCE;Athens, Greece;Marble;Classical
+Grave Stele of Hegeso;Kallimachos;410 BCE;Greece;Marble and paint;Classical
+Winged Victory of Samothrace;Unknown;190 BCE;Greece;Marble;Hellenistic
+Great Altar of Zeus and Athena;Unknown;175 BCE;Turkey, Asia Minor;Marble;Hellenistic
+Seated Boxer;Unknown;100 BCE;Greece;Bronze;Hellenistic
+endfile

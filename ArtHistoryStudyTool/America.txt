@@ -1,0 +1,13 @@
+Chavin de Huantar;Unknown;900-200 BCE;Northern Highlands, Peru;Stone (complex) - granite (lanzon) - hammered gold alloy (jewelry);N/A
+Yaxchilan;Unknown;725;Chipas, Mexico;Limestone;Maya
+Mesa Verde Cliff Dwellings;Unknown;450-1300;Montezuma County, Colorado;Sandstone;Anasazi
+Great Serpent Mound;Unknown;1070;Adams County, Ohio;Earthwork, effigy mound;Mississippian
+Templo Mayor;Unknown;1375-1520;Tenochtitlan;Stone (temple), volcanic stone (Coyolxuahqui Stone), jadeite (mask), basalt (Calendar Stone);Aztec
+Ruler's Feather Headdress;Unknown;1428-1520;Aztec;Quetzal/cotinga feathers and gold;N/A
+City of Cuzco;Unknown;1440;Central Highlands, Peru;Andesite;Incan
+Silver and Gold Maize;Unknown;1400-1533;Inca;Sheet metal repousse and gold and silver alloys;N/A
+All T'oqapu Tunic;Unknown;1450-1540;Lenape People, East Delaware;Beadwork on leather;N/A
+Transformation Mask;Unknown;Late 19th Century;Kwakiutl people, Canada;Wood, paint, and string;N/A
+Hide Painting of Sundance;Cotsiogo;1890-1900;Wind River Reservation, Wyoming;Painted elk hide;East Shoshone
+Black-on-Black Ceramic Vessel;Maria and Julian Martinez;Mid 20th Century;Tewa people, New Mexico;Blackware ceramic;Puebloan
+endfile

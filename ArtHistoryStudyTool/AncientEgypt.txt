@@ -1,0 +1,9 @@
+Palette of King Narmer;Unknown;3000-2920 BCE;Egypt;Greywacke;Predynastic Egypt
+Seated Scribe;Unknown;2620-2500 BCE;Egypt;Painted Limestone;Old Kingdom, Fourth Dynasty
+Great Pyramids (Khufu, Khafre, Menkaure) and Sphinx;Unknown;2550-2490 BCE;Giza, Egypt;Limestone;Old Kingdom, Fourth Dynasty
+King Menkaure and Queen;Unknown;2490-2472 BCE;Egypt;Greywacke;Old Kingdom, Fourth Dynasty
+Temple of Amun-Re and Hypostyle Hall;Unknown;1550 BCE (temple) / 1250 BCE (hall);Luxor, Egypt;Cut sandstone and mud brick;New Kingdom, Eighteenth Dynasty
+Temple of Hatshepsut;Senmut;1473-1458 BCE;Egypt;Sandstone carved into rock cliff and red granite;New Kingdom, Eighteenth Dynasty
+Tutankhamen's Tomb and Innermost Coffin;Unknown;1323 BCE;Egypt;Gold with inlay of enamel and semiprecious stones;New Kingdom, Eighteenth Dynasty
+Last Judgment of Hunefer;Unknown;1275 BCE;Thebes, Egypt;Painted papyrus scroll;New Kingdom, Nineteenth Dynasty
+endfile

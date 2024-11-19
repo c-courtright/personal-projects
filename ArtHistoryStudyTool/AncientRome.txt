@@ -1,0 +1,9 @@
+Alexander Mosaic from the House of Faun;Unknown;100 BCE:Pompeii, Italy;Mosaic;Roman Republic
+Head of a Roman Patrician;Unknown;75-50 BCE;Italy;Marble;Roman Republic
+House of the Vetti;Unknown;2nd Century BCE - rebuilt 62-79 CE;Pompeii, Italy;Cut stone and fresco;Imperial Roman
+Augustus of Primaporta;Unknown;Early 1st Century;Rome, Italy;Marble;Imperial Roman
+Flavian Ampitheater;Unknown;70-80;Rome, Italy;Stone and concrete;Imperial Roman
+Forum of Trajan;Apollodorus of Damascus;106-112 (forum and markets) - 113 (column);Rome, Italy;Brick and concrete (forum and markets) - marble (column);Imperial Roman
+Pantheon;Unknown;118-125;Rome, Italy;Concrete with stone facing;Imperial Rome
+Ludovisi Battle Sarcophagus;Unknown;250;Italy;Marble;Late Imperial Roman
+endfile
